@@ -6,3 +6,4 @@
 @@||kolcsey.eu
 @@||padlet.com
 @@-social_$domain=facebook.com,image
+#@#.facebook-button
