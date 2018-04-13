@@ -1,7 +1,8 @@
-@@||oktatas.hu^
-@@||kir.hu^
-@@||kolcsey.eu^
-@@||mozanaplo.hu^
-@@||e-kreta.hu^
-@@||kolcsey.eu^
-@@||padlet.com^
+@@||oktatas.hu
+@@||kir.hu
+@@||kolcsey.eu
+@@||mozanaplo.hu
+@@||e-kreta.hu
+@@||kolcsey.eu
+@@||padlet.com
+@@-social_$domain=facebook.com,image
