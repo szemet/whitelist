@@ -1,13 +1,14 @@
 [Adblock Plus 2.0]
-! Version: 201804130000
+! Version: 201810090000
 ! Title: WhiteK
-! Last modified: 13 Apr 2018 00:00 UTC
+! Last modified: 9 Oct 2018 00:00 UTC
 ! Expires: 1 days (update frequency)
 @@||oktatas.hu
 @@||kir.hu
 @@||kolcsey.eu
 @@||mozanaplo.hu
 @@||e-kreta.hu
+@@||ekreta.hu
 @@||kolcsey.eu
 @@||padlet.com
 @@-social_$domain=facebook.com,image
