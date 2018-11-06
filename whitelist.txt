@@ -3,8 +3,10 @@
 ! Title: WhiteK
 ! Last modified: 9 Oct 2018 00:00 UTC
 ! Expires: 1 days (update frequency)
+@@||www.oktatas.hu
 @@||oktatas.hu
 @@||kir.hu
+@@||www.kir.hu
 @@||kolcsey.eu
 @@||mozanaplo.hu
 @@||e-kreta.hu
