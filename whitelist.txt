@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 201811060000
 ! Title: WhiteK
-! Last modified: 6 Nov 2018 00:00 UTC
+! Last modified: 6 Nov 2019 00:00 UTC
 ! Expires: 1 days (update frequency)
 @@||www.oktatas.hu
 @@||oktatas.hu
@@ -9,6 +9,9 @@
 @@||www.kir.hu
 @@||kolcsey.eu
 @@||mozanaplo.hu
+@@||eugyintezes.e-kreta.hu
+@@||office.microsoft.com
+@@||teams.microsoft.com
 @@||e-kreta.hu
 @@||ekreta.hu
 @@||kolcsey.eu
