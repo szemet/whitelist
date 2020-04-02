@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004010000
+! Version: 202004021200
 ! Title: WhiteK
-! Last modified: 1 apr 2020 00:00 UTC
+! Last modified: 2 apr 2020 12:00 UTC
 ! Expires: 1 days (update frequency)
 @@||www.oktatas.hu
 @@||oktatas.hu
@@ -18,5 +18,21 @@
 @@||padlet.com
 @@||klik035170001.e-kreta.hu
 @@||poszeidon-kk.e-kreta.hu
+@@||officecdn.microsoft.com
+@@||autodiscover.outlook.com
+@@||api.diagnostics.office.com
+@@||apibasic.diagnostics.office.com
+@@||autodiscover-s.outlook.com
+@@||cloudcheckenabler.azurewebsites.net
+@@||dcs-staging.azure-api.net
+@@||login.live.com
+@@||login.microsoftonline.com
+@@||login.windows.net
+@@||o365diagtelemetry.trafficmanager.net
+@@||odc.officeapps.live.com
+@@||offcatedge.azureedge.net
+@@||officeapps.live.com
+@@||outlook.office365.com
+@@||outlookdiagnostics.azureedge.net
 @@-social_$domain=facebook.com,image
 #@#.facebook-button
