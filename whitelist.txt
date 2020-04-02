@@ -16,5 +16,7 @@
 @@||ekreta.hu
 @@||kolcsey.eu
 @@||padlet.com
+@@||klik035170001.e-kreta.hu
+@@||poszeidon-kk.e-kreta.hu
 @@-social_$domain=facebook.com,image
 #@#.facebook-button
