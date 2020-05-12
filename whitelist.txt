@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202005031000
+! Version: 202005111000
 ! Title: WhiteK
-! Last modified: 3 may 2020 10:00 UTC
+! Last modified: 11 may 2020 10:00 UTC
 ! Expires: 1 days (update frequency)
 port.hu##:xpath(//div[div[a[contains(@href, 'adblock')]]])
 port.hu##body:style(overflow: auto !important)
@@ -9,6 +9,7 @@ totalcar.hu##:xpath(//section[descendant::a[contains(@href, 'adblock')]])
 totalcar.hu##body:style(overflow: auto !important)
 divany.hu##:xpath(//section[descendant::a[contains(@href, 'adblock')]])
 divany.hu##body:style(overflow: auto !important)
+indavideo.hu##script:inject(set-constant.js, addon, no-adblock)
 #@#.facebook-button
 @@-social_$domain=facebook.com,image
 @@||0-edge-chat.facebook.com
