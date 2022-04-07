@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202110120810
+! Version: 202204070810
 ! Title: WhiteK
-! Last modified: 12 oct 2021 08:10 UTC
+! Last modified: 07 04 2021 08:10 UTC
 ! Expires: 1 days (update frequency)
 port.hu##:xpath(//div[div[a[contains(@href, 'adblock')]]])
 port.hu##body:style(overflow: auto !important)
@@ -3148,3 +3148,5 @@ indavideo.hu#?#+js(set-constant.js, addon, no-adblock)
 @@||zomato.com
 @@||zomato.com.edgekey.net
 @@||zoom.us
+@@||meres.tehetsegkapu.hu
+@@||tehetsegkapu.hu
